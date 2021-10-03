@@ -1,2 +1,20 @@
-# quotes_bot
-Quotes bot for telegram
+# Quotes bot for telegram
+
+## Как использовать?
+### 1. Клонируем репозиторий:
+  git clone https://github.com/leonhff/quotes_bot
+
+### 2. Переходим в директорию:
+  cd quotes_bot
+  
+### 3. Идём в телеграм, переходи в бота @BotFather, создаем нового бота и копируем токен
+
+### 4. Открываем файл quotes.py любым текстовым редактором:
+  nano quotes.py
+
+### 5. Вставляем в 7 строчку между "" свой скопированый токен. 
+
+### 6. Устанавливаем все зависимости:
+  pip install requirements.txt
+
+### 7. Запускаем бота
