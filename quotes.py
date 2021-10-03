@@ -1,7 +1,6 @@
 import telebot
 from bs4 import BeautifulSoup
 import requests
-import re
 from telebot import types
 
 token = "" #token @BotFather
